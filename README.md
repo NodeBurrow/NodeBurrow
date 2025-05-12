@@ -49,9 +49,7 @@ Mobile:
 ☑ Marketplaces       ☑ Logistics
 ☑ Healthcare         ☑ Education
 ```
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NodeBurrow
 &theme=gruvbox" />
-</p>
 
